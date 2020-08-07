@@ -55,7 +55,8 @@ class LogisticMapFigure:
         self._r_slider.on_changed(self.update)
 
         self._fig.tight_layout()
-        plt.show()
+        # plt.show()
+        self._fig.show()
 
     def _plot_logistic_map(self, axis):
         self._curve_plot = axis.plot(

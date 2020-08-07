@@ -48,8 +48,7 @@ $ pyreverse -o svg -p testt ests/*.py
       exponent or Lyapunov characteristic exponent of a dynamical
       system is a quantity that characterizes the rate of separation
       of infinitesimally close trajectories.
-
-    + [ ] Two- and three-dimensional [Poincaré plots](https://en.wikipedia.org/wiki/Poincar%C3%A9_plot)
+   + [ ] Two- and three-dimensional [Poincaré plots](https://en.wikipedia.org/wiki/Poincar%C3%A9_plot)
   - [ ] use [Tent map](https://en.wikipedia.org/wiki/Tent_map) instead of "Logistic map"
   - [ ] use the "[hyperbolic tangent](https://en.wikipedia.org/wiki/Hyperbolic_functions) map" instead of "Logistic map".
 
